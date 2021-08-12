@@ -7,6 +7,9 @@ Approaching programming problems with the same adabtability and efficency as my 
  
 :building_construction: I enjoy constructing and customizing the applications that I have always wanted but could not find online or in the APP stores, continuing my education from Flatirons School.
   
+  [![Dominic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiago548)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 ## Projects :art:
 
 
@@ -16,9 +19,13 @@ Approaching programming problems with the same adabtability and efficency as my 
   
 ## Get in Touch :mailbox:
 
-<p>
-  <a href="https://www.linkedin.com/in/dominic-barajas/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+<p align="left">
+ <p>
+  <a href="https://www.linkedin.com/in/dominic-barajas/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="45" width="45" /></a>
   <a href="https://dev.to/santiago548" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"  height="45" width="45" /></a>
+ </p>
+ <a href="https://technologydom.gatsbyjs.io/" target="blank"><img align="left" src="https://image.flaticon.com/icons/png/512/3214/3214841.png"  height="45" width="45" /></a>
+ </p>
  </p>
  
  <br />
