@@ -17,7 +17,7 @@ Approaching programming problems with the same adabtability and efficency as my 
 
 :crystal_ball: A simple javascript focused NPC generator for Dungeons and Dragons with a rails backend to store npc data.
 
-**5th edition Adventures Manual** [Repo](https://github.com/Santiago548/NPC_Generator)
+**5th edition Adventures Manual** [Repo](https://github.com/Santiago548/DD5e_Adventure_Hanbook)
 
 A Ruby CLI tht pills data from a dungeons and dragons API to show class information!
 ## Get in Touch :mailbox:
